@@ -1,0 +1,234 @@
+.bg_ico {
+    background-color: #2ECC8E;
+    max-width: 100%;
+    min-height: 900px;
+    position: relative;
+}
+.header_nav {
+    height: 110px;
+}
+.logo_header {
+    padding: 30px 0 0 15px;
+}
+.navigation {
+    float: right;
+    padding: 35px 0 0 0;
+}
+.navigation li {
+    list-style-type: none;
+    display: inline;
+}
+.navigation a {
+    color: #fff;
+    font-size: 18px;
+    padding: 0 10px 0 30px;
+}
+.skachat {
+    border-radius: 20px;
+    border: 1px solid #fff;
+    padding: 10px 40px;
+    background-color: #fff;
+    color: #2ECC8E;
+}
+.left {
+    padding: 34px 0 0 50px;
+}
+.app_ico {
+    position: absolute;
+    padding: 145px 0 0 0;
+}
+.top_header {
+    margin: 0;
+    padding: 340px 0 0 0;
+    color: #fff;
+}
+.top_header h1 {
+    font-size: 64px;
+}
+.top_header p {
+    font-size: 18px;
+}
+.zagr {
+    padding: 65px 0 0 15px;
+}
+.padd {
+    padding: 0 30px 0 0;
+}
+.banana {
+    position: absolute;
+    padding: 39px 0 0 400px;
+}
+.cherechnya {
+    position: absolute;
+    padding: 500px 0 0 1200px;
+}
+.mobile {
+    position: absolute;
+    padding: 36px 0 0 850px;
+}
+.klubnika {
+    position: absolute;
+    padding: 654px 0 0 550px;
+}
+.tomato {
+    position: absolute;
+    padding: 178px 0px 0 1340px;
+}
+.catalog {
+    height: 900px;
+}
+.information_mabile {
+    position: absolute;
+    padding: 90px 0px 0 0;
+    z-index: 1;
+}
+.elips {
+    position: absolute;
+    padding: 212px 0px 0 140px;
+    z-index: 0;
+}
+.elips_colokol {
+    position: absolute;
+    padding: 192px 0 0 422px;
+}
+.days {
+    position: absolute;
+    padding: 277px 0 0 534px;
+}
+.graph {
+    position: absolute;
+    padding: 400px 0 0 560px;
+}
+.favori {
+    position: absolute;
+    padding: 558px 0 0 534px;
+}
+.infance {
+    position: absolute;
+    padding: 628px 0 0 428px;
+}
+.green {
+    color: #2ECC8E;
+}
+.catalog_h2 {
+    padding: 338px 0 0 100px;
+}
+h2 {
+    font-size: 40px;
+}
+.lorem {
+    padding: 21px 0px 0 106px;
+}
+.catalog .information_p {
+    color: #818080;
+}
+.graphics {
+    height: 1000px;
+}
+.green_h2 {
+    color: #2ECC8E;
+}
+.center {
+    padding: 80px 0 0 0;
+    text-align: center;
+}
+.otstup {
+    padding: 12px 0 0 0;
+    color: #818080;
+    text-align: center;
+}
+.big_banana {
+    position: absolute;
+    padding: 198px 0 0 928px;
+}
+.min_klubnika {
+    position: absolute;
+    padding: 60px 0 0 1300px;
+}
+.apple {
+    position: absolute;
+    padding: 255px 0 0 49px;
+}
+.mobile_left {
+    position: absolute;
+    padding: 140px 0 0 180px;
+}
+.mobile_center {
+    position: absolute;
+    padding: 44px 0 0 396px;
+    z-index: 1;
+}
+.mobile_right {
+    position: absolute;
+    padding: 140px 0 0  714px;
+}
+.item {
+    height: 550px;
+}
+.width {
+    max-width: 400px;
+    color: #818080;
+}
+.otstup_item {
+    padding: 138px 0 0 0;
+}
+.catalog_item_1 {
+    position: absolute;
+    padding: 0 0 0 0;
+}
+.catalog_item_2 {
+    position: absolute;
+    padding: 131px 0 0px 0px;
+}
+.catalog_item_3 {
+    position: absolute;
+    padding: 286px 0 0 0;
+}
+.bg_ico_footer {
+    background-color: #2ECC8E;
+    max-width: 100%;
+    min-height: 440px;
+}
+.footer {
+    padding: 115px 0 0 0;
+}
+.white {
+    color: #fff;
+    text-align: center;
+}
+.white_p {
+    width: 700px;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0 60px 0;
+}
+.skachat_footer {
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid #fff;
+    padding: 10px 84px;
+    background-color: #fff;
+    color: #2ECC8E;
+}
+.zagruzka_footer {
+    text-align: center;
+}
+.klubnika_footer {
+    position: absolute;
+    padding: 340px 0 0 70px;
+}
+.banana_footer {
+    position: absolute;
+    padding: 55px 0 0 1100px;
+}
+@media all and (max-width: 1200px) {
+    .container{
+        max-width: 997px;
+    }
+    
+}
+@media all and (max-width: 996px) {
+    .container {
+        max-width: 776px;
+    }
+}
